@@ -1,14 +1,16 @@
 {
-  "name": "remark-target-blank-link",
-  "version": "1.0.0",
+  "name": "remark-external-link-add-target-blank",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "devDependencies": {
     "jest": "^27.3.1",
     "remark": "^14.0.1",
-    "remark-html": "^15.0.0"
+    "remark-html": "^15.0.0",
+    "unist-util-visit": "^4.1.0"
   },
   "scripts": {
-    "test": "jest"
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
   }
 }

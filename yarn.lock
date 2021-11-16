@@ -2950,7 +2950,7 @@ unist-util-visit@^3.0.0:
     unist-util-is "^5.0.0"
     unist-util-visit-parents "^4.0.0"
 
-unist-util-visit@^4.0.0:
+unist-util-visit@^4.0.0, unist-util-visit@^4.1.0:
   version "4.1.0"
   resolved "https://registry.npmmirror.com/unist-util-visit/download/unist-util-visit-4.1.0.tgz?cache=0&sync_timestamp=1632405194557&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Funist-util-visit%2Fdownload%2Funist-util-visit-4.1.0.tgz#f41e407a9e94da31594e6b1c9811c51ab0b3d8f5"
   integrity sha1-9B5Aep6U2jFZTmscmBHFGrCz2PU=
